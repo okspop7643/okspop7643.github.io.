@@ -1,5 +1,5 @@
 # popoks
-echo "# popoks" >> README.md
+echo "#okspop7643.github.io.s" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
